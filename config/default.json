@@ -1,0 +1,7 @@
+
+  {
+    "mongoURI": "mongodb+srv://abhishek123:hbk786hbk@cluster0-sogly.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+      "githubClientId": "e1ca94449b9842cd508f",
+      "githubSecret": "92177834673c67f324ffe492ac10c256e5ef7a5a"
+}
